@@ -1,0 +1,11 @@
+joelonsoftware.com/rss.xml
+https://twitrss.me/twitter_user_to_rss/?user=codewisdom
+feeds.feedburner.com/se-radio
+rss.sciencedaily.com/top/technology.xml
+rss.sciencedaily.com/top/science.xml
+reddit.com/r/technology/.rss
+reddit.com/domain/microsoft.com/.rss
+reddit.com/r/futurism/.rss
+reddit.com/r/singularity/.rss
+reddit.com/r/space/.rss
+ehackingnews.com/feeds/posts/default
