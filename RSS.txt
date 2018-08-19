@@ -11,3 +11,4 @@ reddit.com/r/space/.rss
 ehackingnews.com/feeds/posts/default
 sciencemag.org/rss/news_current.xml
 science.sciencemag.org/rss/ec.xml
+https://futurism.com/feed/
